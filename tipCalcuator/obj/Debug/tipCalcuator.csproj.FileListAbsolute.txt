@@ -1,0 +1,10 @@
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\bin\Debug\tipCalcuator.exe.config
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\bin\Debug\tipCalcuator.exe
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\bin\Debug\tipCalcuator.pdb
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.csprojResolveAssemblyReference.cache
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.Form1.resources
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.Properties.Resources.resources
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.csproj.GenerateResource.Cache
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.csproj.CoreCompileInputs.cache
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.exe
+C:\Users\Joel\MTSU\CSCI_3037\HWs\tipCalculator\tipCalcuator\obj\Debug\tipCalcuator.pdb
